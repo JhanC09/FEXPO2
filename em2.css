@@ -1,0 +1,62 @@
+
+body
+{
+    
+    background-image: url("di5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+}
+h2
+{
+   color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center; 
+}
+h3
+{
+   color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center; 
+
+}
+h4
+{
+     color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;  
+    font-size: 2em;
+}
+img
+{
+    width: 8cm; height: 8cm;
+    border: width 5px;
+    border-style: groove;
+    text-align: center;
+}
+
+video
+{
+    width: 20%;
+    height: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: 2px solid black;
+}
+p
+{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
